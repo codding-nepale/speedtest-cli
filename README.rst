@@ -17,7 +17,7 @@ Installation
         # Example how to remove using apt-get
         # sudo apt-get remove speedtest-cli
         $ sudo apt-get install curl
-        $ curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo bash
+        $ curl -s https://raw.githubusercontent.com/codding-nepale/speedtest-cli/main/script.deb.sh | sudo bash
         $ sudo apt-get install speedtest
 ::
 
