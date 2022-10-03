@@ -26,7 +26,7 @@ speedtest-cli works with Python 2.4-3.7
 Installation
 ------------
 
-```bash
+::
 ## If migrating from prior bintray install instructions please first...
 # sudo rm /etc/apt/sources.list.d/speedtest.list
 # sudo apt-get update
